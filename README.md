@@ -54,7 +54,7 @@ Roles are the permissions granted to Agents per Department that they have access
 
 - When on the "Admin Panel" of the osTicket Window selects "Agents" then select "Roles"
 - Name the new role "Supreme Admin" then click on the "Permissions" tab.
-- Check all boxes on the "Permissions" tab.
+- Check all boxes on the "Tickets", "Tasks", "Knowledgebase"  sections under the "Permissions" tab.
 
   
 </p>
