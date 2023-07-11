@@ -48,7 +48,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-2. Configure Role
+2. Configure Roles
 
 Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 
@@ -62,9 +62,10 @@ Roles are the permissions granted to Agents per Department that they have access
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1058" alt="Screen Shot 2023-07-10 at 10 04 48 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/bfee5052-a6ca-453e-a99f-e35fda20f6f1">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Configure Departments 
 </p>
 <br />
