@@ -129,10 +129,14 @@ Users are the ticket owners of the tickets in the help desk. When a ticket is cr
 
 <img width="1103" alt="Screen Shot 2023-07-11 at 12 20 39 AM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/9c462e0c-68d9-4d73-a8ff-3ff7a83459d0">
 
-8. Configure SLA Plan
+8. Configure SLA Plans
 
 SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
 
-- In the "Admin Panel" of the osTicket window click on  "Manage"  the  select "SLA Plans" 
+- In the "Admin Panel" of the osTicket window click on "Manage" the select "SLA Plans" 
 - Click on the top right of the table to “Add New SLA Plan.”
+- Name SLA Plan "SEV A" - High Priority (1 Hour Grace Period) then click "Add Plan".
+- Name SLA Plan "SEV B" - Moderate Priority (4 Hours Grace Period) then click "Add Plan".
+- Name SLA Plan "SEV C" - Low Priority (8 Hours Grace Period) then click "Add Plan".
+  
 
