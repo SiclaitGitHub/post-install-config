@@ -67,5 +67,7 @@ Roles are the permissions granted to Agents per Department that they have access
 </p>
 <p>
 3. Configure Departments 
+
+Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
 </p>
 <br />
