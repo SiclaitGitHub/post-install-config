@@ -87,3 +87,13 @@ Teams allow you to pull Agents from different Departments and organize them to h
 - Create a title for the team. Here "Level 2 Support" is being used 
 - Click "Create Team"
 <br />
+
+
+<img width="1059" alt="Screen Shot 2023-07-10 at 10 32 46 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/b07b3607-0cdb-440d-ab9b-a7939f5a3f7d">
+
+5. Enable Tick Creation Premission To All Users
+
+- In the "admin Panel" of osTicket select the "Users" tabe under "Settings"
+- Make sure that the "Require registration and login to create tickets" box is unchecked
+- Click "Save Changes"
+
