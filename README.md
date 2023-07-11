@@ -140,7 +140,8 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 - Name SLA Plan "SEV C" - Low Priority (8 Hour Grace Period) then click "Add Plan".
 
 
-<img width="1103" alt="Screen Shot 2023-07-11 at 12 20 39 AM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/9c462e0c-68d9-4d73-a8ff-3ff7a83459d0">
+<img width="1066" alt="Screen Shot 2023-07-11 at 12 37 31 AM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/dc0bf49a-cc14-4c9e-bc62-c958fb712dcd">
+
 
 9. Configure Help Topics
 
