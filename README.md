@@ -1,5 +1,4 @@
-<img width="1108" alt="Screen Shot 2023-07-10 at 9 56 07 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/bc5136b2-d073-4c38-bc0f-3a07650c06ca"><p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
