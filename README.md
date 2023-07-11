@@ -69,5 +69,19 @@ Roles are the permissions granted to Agents per Department that they have access
 3. Configure Departments 
 
 Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
+
+- Create a title for the new department. Here "System Administrator" is being used 
 </p>
+
+
+<img width="1076" alt="Screen Shot 2023-07-10 at 10 16 10 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/91378c03-6b0a-4af4-92d3-fd2f56d418fc">
+
+4. Configure Teams
+
+Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
+
+- On the "Admin Panel" of osTicket window select the "Teams" tab.
+- Click "Add New Team"
+- Create a title for the team. Here "Level 2 Support" is being used 
+- Click "Create Team"
 <br />
