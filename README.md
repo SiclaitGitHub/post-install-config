@@ -136,7 +136,7 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 - In the "Admin Panel" of the osTicket window click on "Manage" the select "SLA Plans" 
 - Click on the top right of the table to “Add New SLA Plan.”
 - Name SLA Plan "SEV A" - High Priority (1 Hour Grace Period) then click "Add Plan".
-- Name SLA Plan "SEV B" - Moderate Priority (4 Hours Grace Period) then click "Add Plan".
-- Name SLA Plan "SEV C" - Low Priority (8 Hours Grace Period) then click "Add Plan".
+- Name SLA Plan "SEV B" - Moderate Priority (4 Hour Grace Period) then click "Add Plan".
+- Name SLA Plan "SEV C" - Low Priority (8 Hour Grace Period) then click "Add Plan".
   
 
