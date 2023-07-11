@@ -106,8 +106,8 @@ Agents are given access to the help desk with the intent to respond and resolve 
 
 - On the "admin Panel" in osTicket window select the "Agents" tab.
 - Select "Add New Agent"
-- Create "Jane Doe" as new agent in addition to log in cridentials for the new user account.
-- Create "John Doe" as new agent in addition to log in cridentials for the new user account.
+- Create "Jane Doe" as new agent in addition to log in cridentials for the new agent account.
+- Create "John Doe" as new agent in addition to log in cridentials for the new agent account.
 - Make sure 'Send the agent a password reset email" and "Require password change at next login" boxed are unckecked when setting password
 - In the "Access" tab under the "Agents" tab assign select appropriate "Department" and "Role" for each agent.
 - Click "Create"
