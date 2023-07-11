@@ -31,12 +31,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="1195" alt="Screen Shot 2023-07-10 at 9 46 58 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/2ff7cd27-356d-4b07-b37e-42c0c2bd1887">
+<img width="1022" alt="Screen Shot 2023-07-10 at 9 48 34 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/95e736c8-3cab-40cc-9032-4e5d4adf5f8c">
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+1. Log in to the OsTicket - Admin Page
+  
+  - Log in to OsTicket using the admin cridentials created erielr in the installastion process
+  - Select "Admin Panel" on the top right of the osTicket window.
+
+  
 <br />
 
 <p>
