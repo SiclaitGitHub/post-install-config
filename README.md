@@ -74,7 +74,9 @@ Since tickets are routed through Departments in the help desk, there are many se
 </p>
 
 
+
 <img width="1076" alt="Screen Shot 2023-07-10 at 10 16 10 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/91378c03-6b0a-4af4-92d3-fd2f56d418fc">
+
 
 4. Configure Teams
 
