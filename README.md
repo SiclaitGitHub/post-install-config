@@ -22,11 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Teams
+- Enable Ticket Creation Premission To All Users
+- Configure Agents (Workers)
+- Configure Users (Customers)
+- Configure SLA Plans
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -91,7 +93,7 @@ Teams allow you to pull Agents from different Departments and organize them to h
 
 <img width="1059" alt="Screen Shot 2023-07-10 at 10 32 46 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/b07b3607-0cdb-440d-ab9b-a7939f5a3f7d">
 
-5. Enable Tick Creation Premission To All Users
+5. Enable Ticket Creation Premission To All Users
 
 - In the "admin Panel" of osTicket select the "Users" tabe under "Settings"
 - Make sure that the "Require registration and login to create tickets" box is unchecked
