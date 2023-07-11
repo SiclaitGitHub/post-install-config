@@ -108,4 +108,6 @@ Agents are given access to the help desk with the intent to respond and resolve 
 - Select "Add New Agent"
 - Create "Jane Doe" as new agent in addition to log in cridentials for the new user.
 - Create "John Doe" as new agent in addition to log in cridentials for the new user.
+- Make sure 'Send the agent a password reset email" and "Require password change at next login" boxed are unckecked when setting password
+- In the "Access" tab under the "Agents" tab assign select appropriate "Department" and "Role" for each agent.
 - Click "Create"
