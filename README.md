@@ -138,5 +138,19 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 - Name SLA Plan "SEV A" - High Priority (1 Hour Grace Period) then click "Add Plan".
 - Name SLA Plan "SEV B" - Moderate Priority (4 Hour Grace Period) then click "Add Plan".
 - Name SLA Plan "SEV C" - Low Priority (8 Hour Grace Period) then click "Add Plan".
+
+
+<img width="1103" alt="Screen Shot 2023-07-11 at 12 20 39 AM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/9c462e0c-68d9-4d73-a8ff-3ff7a83459d0">
+
+9. Configure Help Topics
+
+Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
+
+- In the "Admin Panel" of the osTicket window click on "Manage" the select "Help Topics" 
+- Click on “Add New Help Topics”
+- Add the following Help Topics: "Business Critical Outage", "Personal Computer Issues", "Equipment Request" and "Password Reset"
+- After each Help Toic click "Add Topic"
+
+
   
 
