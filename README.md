@@ -100,14 +100,29 @@ Teams allow you to pull Agents from different Departments and organize them to h
 
 <img width="1099" alt="Screen Shot 2023-07-10 at 10 48 13 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/17d5e843-7783-4fcc-b190-b9f1efb2f5a1">
 
-6. Configure Agents
+6. Configure Agents (Workers)
 
 Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
 
 - On the "admin Panel" in osTicket window select the "Agents" tab.
 - Select "Add New Agent"
-- Create "Jane Doe" as new agent in addition to log in cridentials for the new user.
-- Create "John Doe" as new agent in addition to log in cridentials for the new user.
+- Create "Jane Doe" as new agent in addition to log in cridentials for the new user account.
+- Create "John Doe" as new agent in addition to log in cridentials for the new user account.
 - Make sure 'Send the agent a password reset email" and "Require password change at next login" boxed are unckecked when setting password
 - In the "Access" tab under the "Agents" tab assign select appropriate "Department" and "Role" for each agent.
 - Click "Create"
+
+
+<img width="1068" alt="Screen Shot 2023-07-11 at 12 15 08 AM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/7416790d-155e-4f75-b367-145c2d3b25f0">
+
+
+7. Configure Users (Customers)
+
+Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
+
+- Click on "Agent Panel" on the top right corner of the osTicket window
+- Select "Users" and clike on "Add User"
+- Create "Ken Block" as new user in addition to log in cridentials for the new user account.
+- Create "Karen Block" as new user in addition to log in cridentials for the new user account.
+- Click "Add User"
+
