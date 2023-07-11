@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 1. Log in to the OsTicket - Admin Page
   
-  - Log in to OsTicket using the admin cridentials created erielr in the installastion process
+  - Log in to OsTicket using the admin cridentials created earlier in the installation process
   - Select "Admin Panel" on the top right of the osTicket window.
 
   
