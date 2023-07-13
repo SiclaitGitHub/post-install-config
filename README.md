@@ -152,7 +152,7 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 - In the "Admin Panel" of the osTicket window click on "Manage" the select "Help Topics" 
 - Click on “Add New Help Topics”
 - Add the following Help Topics: "Business Critical Outage", "Personal Computer Issues", "Equipment Request" and "Password Reset"
-- After each Help Toic click "Add Topic"
+- After each Help Topic click "Add Topic"
 
 
   
