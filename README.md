@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles
 - Configure Teams
-- Enable Ticket Creation Premission To All Users
+- Enable Ticket Creation Permission To All Users
 - Configure Agents (Workers)
 - Configure Users (Customers)
 - Configure SLA Plans
@@ -37,9 +37,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-1. Log in to the OsTicket - Admin Panel
+1. Log in to the osTicket - Admin Panel
   
-  - Log in to OsTicket using the admin cridentials created earlier in the installation process
+  - Log in to osTicket using the admin credentials created earlier in the installation process
   - Select "Admin Panel" on the top right of the osTicket window.
 
   
@@ -56,7 +56,7 @@ Roles are the permissions granted to Agents per Department that they have access
 
 - When on the "Admin Panel" of the osTicket Window selects "Agents" then select "Roles"
 - Name the new role "Supreme Admin" then click on the "Permissions" tab.
-- Check all boxes on the "Tickets", "Tasks" and "Knowledgebase"  sections under the "Permissions" tab.
+- Check all boxes on the "Tickets", "Tasks" and "Knowledge Base"  sections under the "Permissions" tab.
 - Click "Add New"
 
   
@@ -84,7 +84,7 @@ Since tickets are routed through Departments in the help desk, there are many se
 
 Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
 
-- On the "Admin Panel" of osTicket window select the "Teams" tab.
+- On the "Admin Panel" of the osTicket window select the "Teams" tab.
 - Click "Add New Team"
 - Create a title for the team. Here "Level 2 Support" is being used 
 - Click "Create Team"
@@ -93,9 +93,9 @@ Teams allow you to pull Agents from different Departments and organize them to h
 
 <img width="1059" alt="Screen Shot 2023-07-10 at 10 32 46 PM" src="https://github.com/SiclaitGitHub/post-install-config/assets/139138443/b07b3607-0cdb-440d-ab9b-a7939f5a3f7d">
 
-5. Enable Ticket Creation Premission To All Users
+5. Enable Ticket Creation Permission To All Users
 
-- In the "admin Panel" of osTicket select the "Users" tabe under "Settings"
+- In the "admin Panel" of osTicket select the "Users" tab under "Settings"
 - Make sure that the "Require registration and login to create tickets" box is unchecked
 - Click "Save Changes"
 
@@ -106,7 +106,7 @@ Teams allow you to pull Agents from different Departments and organize them to h
 
 Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
 
-- On the "admin Panel" in osTicket window select the "Agents" tab.
+- On the "admin Panel" in the osTicket window select the "Agents" tab.
 - Select "Add New Agent"
 - Create "Jane Doe" as new agent in addition to log in cridentials for the new agent account.
 - Create "John Doe" as new agent in addition to log in cridentials for the new agent account.
@@ -124,8 +124,8 @@ Users are the ticket owners of the tickets in the help desk. When a ticket is cr
 
 - Click on "Agent Panel" on the top right corner of the osTicket window
 - Select "Users" and clike on "Add User"
-- Create "Ken Block" as new user in addition to log in cridentials for the new user account.
-- Create "Karen Block" as new user in addition to log in cridentials for the new user account.
+- Create "Ken Block" as a new user in addition to log in credentials for the new user account.
+- Create "Karen Block" as a new user in addition to log in credentials for the new user account.
 - Click "Add User"
 
 
@@ -149,11 +149,10 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 
 Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
 
-- In the "Admin Panel" of the osTicket window click on "Manage" the select "Help Topics" 
+- In the "Admin Panel" of the osTicket window, click on "Manage" the select "Help Topics" 
 - Click on “Add New Help Topics”
 - Add the following Help Topics: "Business Critical Outage", "Personal Computer Issues", "Equipment Request" and "Password Reset"
 - After each Help Topic click "Add Topic"
-
 
   
 
